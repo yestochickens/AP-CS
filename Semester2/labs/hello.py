@@ -1,0 +1,7 @@
+'''
+Says Hello
+Derek Yee
+'''
+
+name = input("What is your name? ")
+print(f"hello, {name}")
